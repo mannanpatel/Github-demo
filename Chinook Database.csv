@@ -1,13 +1,13 @@
-"Table / View","Children","Parents","Columns","Rows","Type","Comments"
-"Album","1","1","3","347","Table","This is comment for database on PostgresSQL Invoice link is also working"
-"AlbumsArtists","0","0","2","0","View",""
-"Artist","1","0","2","275","Table",""
-"Customer","1","1","13","59","Table",""
-"Employee","2","1","15","8","Table",""
-"Genre","1","0","2","25","Table",""
-"Invoice","1","1","9","412","Table","Markdown syntax example Invoice table Important column is Invoice.Total    This is a blockquote.   This is the second paragraph in the blockquote.   This is an H2 in a blockquote  Some of these words are emphasized. Some of these words are emphasized also. Use two asterisks for strong emphasis. Or, if you prefer, use two underscores instead. Bullet list:  Artist  Track.Bytes Playlist  This is an SchemaSpy."
-"InvoiceLine","0","2","5","2240","Table",""
-"MediaType","1","0","2","5","Table",""
-"Playlist","1","0","2","18","Table",""
-"PlaylistTrack","0","2","2","8715","Table",""
-"Track","2","3","9","3503","Table",""
+Table / View,Children,Parents,Columns,Rows,Type,Comments
+Album,1,1,3,347,Table,This is comment for database on PostgresSQL Invoice link is also working
+AlbumsArtists,0,0,2,0,View,
+Artist,1,0,2,275,Table,
+,,,,,,
+,,,,,,
+,,,,,,
+Invoice,1,1,9,412,Table,"Markdown syntax example Invoice table Important column is Invoice.Total    This is a blockquote.   This is the second paragraph in the blockquote.   This is an H2 in a blockquote  Some of these words are emphasized. Some of these words are emphasized also. Use two asterisks for strong emphasis. Or, if you prefer, use two underscores instead. Bullet list:  Artist  Track.Bytes Playlist  This is an SchemaSpy."
+InvoiceLine,0,2,5,2240,Table,
+MediaType,1,0,2,5,Table,
+Playlist,1,0,2,18,Table,
+PlaylistTrack,0,2,2,8715,Table,
+Track,2,3,9,3503,Table,
